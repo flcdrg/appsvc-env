@@ -1,2 +1,3 @@
 # appsvc-env
-Simple web app that dumps environment
+
+Simple .NET web app that dumps all environment variables.
